@@ -1,0 +1,10 @@
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\bin\Debug\Midia Control.exe.config
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\bin\Debug\Midia Control.exe
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\bin\Debug\Midia Control.pdb
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\obj\Debug\Midia Control.csproj.AssemblyReference.cache
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\obj\Debug\Midia Control.csproj.CoreCompileInputs.cache
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\obj\Debug\Midia Control.exe
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\obj\Debug\Midia Control.pdb
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\bin\Debug\WindowsInput.dll
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\bin\Debug\WindowsInput.xml
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\obj\Debug\Midia Control.csproj.CopyComplete

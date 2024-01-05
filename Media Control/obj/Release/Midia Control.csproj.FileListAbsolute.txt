@@ -1,0 +1,7 @@
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\bin\Release\Midia Control.exe.config
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\bin\Release\Midia Control.exe
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\bin\Release\Midia Control.pdb
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\obj\Release\Midia Control.csproj.AssemblyReference.cache
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\obj\Release\Midia Control.csproj.CoreCompileInputs.cache
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\obj\Release\Midia Control.exe
+C:\Users\Lapaz\Desktop\portfolio\midia-control-shortcut\Midia Control\obj\Release\Midia Control.pdb
