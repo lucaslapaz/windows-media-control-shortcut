@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "cmakeMinimumRequired": { "major": 3, "minor": 21, "patch": 0 },
+  "configurePresets": [
+    {
+      "name": "mingw",
+      "displayName": "MinGW-w64 (Ninja, Release)",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build/mingw",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release",
+        "CMAKE_CXX_COMPILER": "g++"
+      }
+    },
+    {
+      "name": "mingw-debug",
+      "inherits": "mingw",
+      "displayName": "MinGW-w64 (Ninja, Debug)",
+      "binaryDir": "${sourceDir}/build/mingw-debug",
+      "cacheVariables": { "CMAKE_BUILD_TYPE": "Debug" }
+    },
+    {
+      "name": "msvc",
+      "displayName": "MSVC (Ninja Multi-Config)",
+      "generator": "Ninja Multi-Config",
+      "binaryDir": "${sourceDir}/build/msvc",
+      "cacheVariables": { "CMAKE_CXX_COMPILER": "cl" }
+    }
+  ],
+  "buildPresets": [
+    { "name": "mingw", "configurePreset": "mingw" },
+    { "name": "mingw-debug", "configurePreset": "mingw-debug" },
+    { "name": "msvc", "configurePreset": "msvc", "configuration": "Release" }
+  ]
+}
